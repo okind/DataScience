@@ -1,3 +1,5 @@
+
+--second highest salary task
 SELECT
   (SELECT DISTINCT E.Salary
    FROM Employee E
